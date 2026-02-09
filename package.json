@@ -1,5 +1,5 @@
 {
-  "name": "restaurante-delar'te---valle-verde",
+  "name": "restaurante-delar-te---valle-verde",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,8 +11,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "lucide-react": "^0.563.0",
     "@google/genai": "^1.40.0"
   },
